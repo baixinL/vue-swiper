@@ -101,8 +101,9 @@
 	</script>
 
 
-<br><br>
-#一下是我的console的打印：<br><br>
+
+#一下是我的console的打印：
+
 	updated (这里是vue的updated)
 	imgOnload 1(这里是vue的每张图片加载完成后)
 	imgOnload 3
